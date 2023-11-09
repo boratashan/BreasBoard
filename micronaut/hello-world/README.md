@@ -1,4 +1,4 @@
-## Micronaut 4.1.5 Documentation
+## Micronaut 4.1.5 Documentation 
 
 - [User Guide](https://docs.micronaut.io/4.1.5/guide/index.html)
 - [API Reference](https://docs.micronaut.io/4.1.5/api/index.html)
