@@ -10,7 +10,7 @@ public class ManualDIApp {
         final BeanContext beanContext = BeanContext.run();
         try {
             Vehicle vehicle = beanContext.getBean(Vehicle.class);
-            System.out.println(vehicle.start());
+            System.out.println(vehicle.start() + " ." );
         }
         finally {
             beanContext.close();
