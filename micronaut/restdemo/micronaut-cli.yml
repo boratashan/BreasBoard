@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.bora
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle_kotlin
+features: [app-name, control-panel, gradle, http-client-test, java, java-application, junit, logback, management, micronaut-aot, micronaut-build, micronaut-http-validation, netty-server, openapi, properties, readme, serialization-jackson, shade, swagger-ui]
